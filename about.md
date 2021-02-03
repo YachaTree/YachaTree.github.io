@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[dnftksghkfkd@naver.com](mailto:email@domain.com)
+[dnftksghkfkd@naver.com](mailto:dnftksghkfkd@naver.com)
