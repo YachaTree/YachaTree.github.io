@@ -9,7 +9,7 @@ name: JaeHyup Kim
 description: 개발자의 걸음마
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: ![프로필](./images/prof.jpg)
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
